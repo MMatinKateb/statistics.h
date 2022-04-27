@@ -12,3 +12,5 @@ double stddev(T arr[], int size_of_array) --> returns standard deviation of elem
 double max(T arr[], int size_of_array) --> returns maximum value in array
 
 double min(T arr[], int size_of_array) --> returns minimum value in array
+
+double range(T arr[], int size_of_array) --> returns the range of values from array 
